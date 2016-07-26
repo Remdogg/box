@@ -1,0 +1,50 @@
+h1 {
+  color: purple;
+  text-align: center;
+  font-family: cursive;
+}
+a:visited {
+  color: red;
+}
+a:hover {
+  color: black;
+}
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+#cities {
+  font-size: 35px;
+}
+section > p {
+  color: gold;
+  font-style: oblique;
+  background-color: black;
+  font-size: 8px;
+}
+img {
+  border-style: dotted;
+  height: 500px;
+
+}
+body{
+  background: #ADD8E6;
+}
+header {
+  font-family: monospace;
+  background-color: green;
+}
+caption {
+  font-size: 8px;
+}
+table, tr, td, th {
+  border: 10px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.list {
+  font-size: 18px;
+  font-style: italic;
+}
