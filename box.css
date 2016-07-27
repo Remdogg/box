@@ -1,0 +1,114 @@
+h1 {
+    font-size:50px;
+    color:black;
+    text-shadow: 2px 2px white;
+    text-align: center;
+    font-family:'Faster One', cursive;
+    padding-top: 75px;
+  }
+
+.restaurants {
+display: flex;
+justify-content: center;
+justify-content: space-around;
+  height: 250px;
+  width:350px;
+  border-style: solid;
+  border-width: thick;
+  border-color: black;
+
+
+}
+#mcdrestaurants {
+  float: left;
+  margin: 0px 30px 30px 30px;
+}
+
+#bk {
+  float: right;
+  clear: both;
+  margin: 0px 30px 30px 30px;
+}
+
+#tb {
+  float: left;
+  clear: both;
+  margin: 0px 30px 30px 30px;
+}
+
+.link {
+  color:red;
+  
+
+}
+
+#ph {
+  float: right;
+  clear: both;
+  margin: 0px 30px 30px 30px;
+}
+
+#ino {
+  float: left;
+  clear: both;
+  margin: 0px 30px 30px 30px;
+}
+
+.INO {
+  border-style: dotted;
+  border-width: thin;
+  height: 550px;
+
+}
+
+.name {
+  color: black;
+  font-size: 36px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Faster One', sans-serif;
+}
+
+
+
+body{
+  background-color: #d2d4dc;
+  font-family: 'Dosis', sans-serif;
+}
+
+
+
+.box{
+  display: flex;
+  flex-wrap: wrap;
+ border-style: dotted;
+  border-width: thin;
+  height: 100%;
+
+}
+
+#burger {
+  height: 125px;
+  width: 175px;
+ float: right;
+}
+header {
+  height: 200px;
+  width:100%;
+  background-image: url("https://thumbs.dreamstime.com/z/seamless-fast-food-pattern-22324689.jpg");
+}
+
+.innout {
+  height: 350px;
+  width: 600px;
+  border-color: black;
+  border-style: solid;
+  border-width: thick;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
