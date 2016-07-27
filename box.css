@@ -21,7 +21,7 @@ justify-content: space-around;
 }
 #mcdrestaurants {
   float: left;
-  margin: 0px 30px 30px 30px;
+  margin: 1px 30px 30px 30px;
 }
 
 #bk {
@@ -38,7 +38,7 @@ justify-content: space-around;
 
 .link {
   color:red;
-  
+
 
 }
 
